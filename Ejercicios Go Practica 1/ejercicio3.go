@@ -2,7 +2,7 @@
 // a la izquierda o a la derecha, según se especifique. A partir de esta función, el programa realiza varias rotaciones
 // en una secuencia previamente creada que es inmutable. Al final, se imprime el resultado de cada rotación junto con la
 // secuencia original. Cada iteración de rotación mueve el elemento más a la izquierda al final de la secuencia (en caso
-// de rotación a la izquierda) o el elemento más a la derecha al principio (en caso de rotación a la derecha).
+// de rotación a la izquierda) o el elemento más a la derecha al principio (en caso de rotación a la derecha)
 // Autor: Fabián Fernández
 
 package main
