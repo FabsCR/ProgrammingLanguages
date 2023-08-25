@@ -42,7 +42,6 @@ func main() {
 	fmt.Println("Secuencia Original:", originalSequence)
 
 	for i, rotation := range rotations {
-		// Clonamos la secuencia original para mantenerla inmutable
 		sequenceCopy := make([]interface{}, len(originalSequence))
 		copy(sequenceCopy, originalSequence)
 
