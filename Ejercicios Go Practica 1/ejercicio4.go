@@ -41,6 +41,9 @@ func main() {
 		{"Gucci", 200000, 43, 2},
 		{"Givenchy", 350000, 37, 4},
 		{"Converse", 40000, 35, 6},
+		{"Reebok", 48000, 39, 10},
+		{"New Balance", 62000, 38, 12},
+		{"Skechers", 39000, 37, 5},
 	}
 
 	fmt.Println("Inventario de Zapatos:")
