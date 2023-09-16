@@ -5,6 +5,6 @@ let filterBySubstring (substring: string) (strings: string list) : string list =
     |> List.filter (fun str -> str.Contains(substring))
 
 let exampleStrings = ["la casa"; "el perro"; "pintando la cerca"]
-let filteredStrings = filterBySubstring "el" exampleStrings
+let filteredStrings = filterBySubstring "la" exampleStrings
 
 printfn "Filtered strings: %A" filteredStrings
