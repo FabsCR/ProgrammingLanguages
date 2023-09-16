@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ANWuH18iPVWJDjO45EavpseWCAoK+NaPmsAefOxB1UOdtV4glOcPu5r+w1XglXuxLbHfPVr3s0duGfg/7qAe7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fabia\\OneDrive\\Escritorio\\Ejercicios F# Funcional\\Ejercicio1\\Ejercicio1\\Ejercicio1.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fabia\\.nuget\\packages\\fsharp.core\\7.0.400\\fsharp.core.7.0.400.nupkg.sha512"
+  ],
+  "logs": []
+}

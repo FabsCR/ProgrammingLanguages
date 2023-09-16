@@ -1,0 +1,54 @@
+C:\Users\fabia\source\repos\Ejercicio1\Ejercicio1\bin\Debug\net6.0\Ejercicio1.exe
+C:\Users\fabia\source\repos\Ejercicio1\Ejercicio1\bin\Debug\net6.0\Ejercicio1.deps.json
+C:\Users\fabia\source\repos\Ejercicio1\Ejercicio1\bin\Debug\net6.0\Ejercicio1.runtimeconfig.json
+C:\Users\fabia\source\repos\Ejercicio1\Ejercicio1\bin\Debug\net6.0\Ejercicio1.dll
+C:\Users\fabia\source\repos\Ejercicio1\Ejercicio1\bin\Debug\net6.0\Ejercicio1.pdb
+C:\Users\fabia\source\repos\Ejercicio1\Ejercicio1\bin\Debug\net6.0\FSharp.Core.dll
+C:\Users\fabia\source\repos\Ejercicio1\Ejercicio1\bin\Debug\net6.0\cs\FSharp.Core.resources.dll
+C:\Users\fabia\source\repos\Ejercicio1\Ejercicio1\bin\Debug\net6.0\de\FSharp.Core.resources.dll
+C:\Users\fabia\source\repos\Ejercicio1\Ejercicio1\bin\Debug\net6.0\es\FSharp.Core.resources.dll
+C:\Users\fabia\source\repos\Ejercicio1\Ejercicio1\bin\Debug\net6.0\fr\FSharp.Core.resources.dll
+C:\Users\fabia\source\repos\Ejercicio1\Ejercicio1\bin\Debug\net6.0\it\FSharp.Core.resources.dll
+C:\Users\fabia\source\repos\Ejercicio1\Ejercicio1\bin\Debug\net6.0\ja\FSharp.Core.resources.dll
+C:\Users\fabia\source\repos\Ejercicio1\Ejercicio1\bin\Debug\net6.0\ko\FSharp.Core.resources.dll
+C:\Users\fabia\source\repos\Ejercicio1\Ejercicio1\bin\Debug\net6.0\pl\FSharp.Core.resources.dll
+C:\Users\fabia\source\repos\Ejercicio1\Ejercicio1\bin\Debug\net6.0\pt-BR\FSharp.Core.resources.dll
+C:\Users\fabia\source\repos\Ejercicio1\Ejercicio1\bin\Debug\net6.0\ru\FSharp.Core.resources.dll
+C:\Users\fabia\source\repos\Ejercicio1\Ejercicio1\bin\Debug\net6.0\tr\FSharp.Core.resources.dll
+C:\Users\fabia\source\repos\Ejercicio1\Ejercicio1\bin\Debug\net6.0\zh-Hans\FSharp.Core.resources.dll
+C:\Users\fabia\source\repos\Ejercicio1\Ejercicio1\bin\Debug\net6.0\zh-Hant\FSharp.Core.resources.dll
+C:\Users\fabia\source\repos\Ejercicio1\Ejercicio1\obj\Debug\net6.0\Ejercicio1.fsproj.AssemblyReference.cache
+C:\Users\fabia\source\repos\Ejercicio1\Ejercicio1\obj\Debug\net6.0\Ejercicio1.AssemblyInfoInputs.cache
+C:\Users\fabia\source\repos\Ejercicio1\Ejercicio1\obj\Debug\net6.0\Ejercicio1.AssemblyInfo.fs
+C:\Users\fabia\source\repos\Ejercicio1\Ejercicio1\obj\Debug\net6.0\Ejercicio1.fsproj.CoreCompileInputs.cache
+C:\Users\fabia\source\repos\Ejercicio1\Ejercicio1\obj\Debug\net6.0\Ejercicio1.fsproj.CopyComplete
+C:\Users\fabia\source\repos\Ejercicio1\Ejercicio1\obj\Debug\net6.0\Ejercicio1.dll
+C:\Users\fabia\source\repos\Ejercicio1\Ejercicio1\obj\Debug\net6.0\Ejercicio1.pdb
+C:\Users\fabia\source\repos\Ejercicio1\Ejercicio1\obj\Debug\net6.0\Ejercicio1.genruntimeconfig.cache
+C:\Users\fabia\OneDrive\Escritorio\Ejercicios F# Funcional\Ejercicio1\Ejercicio1\bin\Debug\net6.0\Ejercicio1.exe
+C:\Users\fabia\OneDrive\Escritorio\Ejercicios F# Funcional\Ejercicio1\Ejercicio1\bin\Debug\net6.0\Ejercicio1.deps.json
+C:\Users\fabia\OneDrive\Escritorio\Ejercicios F# Funcional\Ejercicio1\Ejercicio1\bin\Debug\net6.0\Ejercicio1.runtimeconfig.json
+C:\Users\fabia\OneDrive\Escritorio\Ejercicios F# Funcional\Ejercicio1\Ejercicio1\bin\Debug\net6.0\Ejercicio1.dll
+C:\Users\fabia\OneDrive\Escritorio\Ejercicios F# Funcional\Ejercicio1\Ejercicio1\bin\Debug\net6.0\Ejercicio1.pdb
+C:\Users\fabia\OneDrive\Escritorio\Ejercicios F# Funcional\Ejercicio1\Ejercicio1\bin\Debug\net6.0\FSharp.Core.dll
+C:\Users\fabia\OneDrive\Escritorio\Ejercicios F# Funcional\Ejercicio1\Ejercicio1\bin\Debug\net6.0\cs\FSharp.Core.resources.dll
+C:\Users\fabia\OneDrive\Escritorio\Ejercicios F# Funcional\Ejercicio1\Ejercicio1\bin\Debug\net6.0\de\FSharp.Core.resources.dll
+C:\Users\fabia\OneDrive\Escritorio\Ejercicios F# Funcional\Ejercicio1\Ejercicio1\bin\Debug\net6.0\es\FSharp.Core.resources.dll
+C:\Users\fabia\OneDrive\Escritorio\Ejercicios F# Funcional\Ejercicio1\Ejercicio1\bin\Debug\net6.0\fr\FSharp.Core.resources.dll
+C:\Users\fabia\OneDrive\Escritorio\Ejercicios F# Funcional\Ejercicio1\Ejercicio1\bin\Debug\net6.0\it\FSharp.Core.resources.dll
+C:\Users\fabia\OneDrive\Escritorio\Ejercicios F# Funcional\Ejercicio1\Ejercicio1\bin\Debug\net6.0\ja\FSharp.Core.resources.dll
+C:\Users\fabia\OneDrive\Escritorio\Ejercicios F# Funcional\Ejercicio1\Ejercicio1\bin\Debug\net6.0\ko\FSharp.Core.resources.dll
+C:\Users\fabia\OneDrive\Escritorio\Ejercicios F# Funcional\Ejercicio1\Ejercicio1\bin\Debug\net6.0\pl\FSharp.Core.resources.dll
+C:\Users\fabia\OneDrive\Escritorio\Ejercicios F# Funcional\Ejercicio1\Ejercicio1\bin\Debug\net6.0\pt-BR\FSharp.Core.resources.dll
+C:\Users\fabia\OneDrive\Escritorio\Ejercicios F# Funcional\Ejercicio1\Ejercicio1\bin\Debug\net6.0\ru\FSharp.Core.resources.dll
+C:\Users\fabia\OneDrive\Escritorio\Ejercicios F# Funcional\Ejercicio1\Ejercicio1\bin\Debug\net6.0\tr\FSharp.Core.resources.dll
+C:\Users\fabia\OneDrive\Escritorio\Ejercicios F# Funcional\Ejercicio1\Ejercicio1\bin\Debug\net6.0\zh-Hans\FSharp.Core.resources.dll
+C:\Users\fabia\OneDrive\Escritorio\Ejercicios F# Funcional\Ejercicio1\Ejercicio1\bin\Debug\net6.0\zh-Hant\FSharp.Core.resources.dll
+C:\Users\fabia\OneDrive\Escritorio\Ejercicios F# Funcional\Ejercicio1\Ejercicio1\obj\Debug\net6.0\Ejercicio1.fsproj.AssemblyReference.cache
+C:\Users\fabia\OneDrive\Escritorio\Ejercicios F# Funcional\Ejercicio1\Ejercicio1\obj\Debug\net6.0\Ejercicio1.AssemblyInfoInputs.cache
+C:\Users\fabia\OneDrive\Escritorio\Ejercicios F# Funcional\Ejercicio1\Ejercicio1\obj\Debug\net6.0\Ejercicio1.AssemblyInfo.fs
+C:\Users\fabia\OneDrive\Escritorio\Ejercicios F# Funcional\Ejercicio1\Ejercicio1\obj\Debug\net6.0\Ejercicio1.fsproj.CoreCompileInputs.cache
+C:\Users\fabia\OneDrive\Escritorio\Ejercicios F# Funcional\Ejercicio1\Ejercicio1\obj\Debug\net6.0\Ejercicio1.fsproj.CopyComplete
+C:\Users\fabia\OneDrive\Escritorio\Ejercicios F# Funcional\Ejercicio1\Ejercicio1\obj\Debug\net6.0\Ejercicio1.dll
+C:\Users\fabia\OneDrive\Escritorio\Ejercicios F# Funcional\Ejercicio1\Ejercicio1\obj\Debug\net6.0\Ejercicio1.pdb
+C:\Users\fabia\OneDrive\Escritorio\Ejercicios F# Funcional\Ejercicio1\Ejercicio1\obj\Debug\net6.0\Ejercicio1.genruntimeconfig.cache
