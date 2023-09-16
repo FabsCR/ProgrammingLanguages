@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "23EOLzdrq2CTJyB21ibVPXfhcTIYKAGIMhXSUnvak0wLDy+6xbcNTZGT9HiiA1gWMWxARyhqG7E2uCuJ/YQ8fw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fabia\\Downloads\\Semana2\\Semana2\\Semana2\\Semana2.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fabia\\.nuget\\packages\\fsharp.core\\7.0.400\\fsharp.core.7.0.400.nupkg.sha512"
+  ],
+  "logs": []
+}
